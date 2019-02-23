@@ -1,0 +1,10 @@
+[package]
+name = "specto"
+version = "0.1.0"
+authors = ["Dalton <Dolphindalt@gmail.com>"]
+
+[dependencies]
+portaudio = "0.7.0"
+gnuplot = "0.0.29"
+argparse-rs = "0.1.0"
+num-complex = "0.2.1"
